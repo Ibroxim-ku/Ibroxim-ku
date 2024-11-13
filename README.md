@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **umaraliyevibrohim04@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Ibroxim-ku/Resume/blob/main/IbroximUmaraliyev_resume.pdf](https://github.com/Ibroxim-ku/Resume/blob/main/IbroximUmaraliyev_resume.pdf)
+- 📄 Know about my experiences [https://github.com/Ibroxim-ku/Resume/blob/main/ibroxim_umaraliyev_resume.pdf)
 
 - ⚡ Fun fact **I used to be able to solve a Rubik's cube in under two minutes**
 
